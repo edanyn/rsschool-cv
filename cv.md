@@ -32,6 +32,7 @@ for (let i = 0; i < input.length; i ++) {
 }
 console.log(output);
 ```
+<<<<<<< HEAD
 ---
 ## Education
 ---
@@ -46,3 +47,6 @@ console.log(output);
 * Ukrainian
 * Polish
 * English (B1-B2)
+=======
+---
+>>>>>>> 6656bfe387d9f845d0d071dd9384f7c329697a00
